@@ -4,4 +4,4 @@ Front-end - React
 
 Backend - Python
 
-https://github.com/gracegitt/phone-book-app/blob/9f6123fe94344ba36b86b0252b06e2142ccda5cb/Capturer.png
+![Capturer (1)](https://github.com/gracegitt/phone-book-app/assets/102972030/f2844709-7ca8-4ea7-bd52-49eff87ab2a9)
